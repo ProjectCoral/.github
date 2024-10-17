@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ Coral is a chatbot based on python. It is designed to be easy to use and customizable.
+🙋‍♀️ Coral is a chatbot based on python. It is designed to be easy to use and customizable. Current we are using Onebot 11 standard.
 
 The prototype comes from [Muice-chatbot](https://github.com/Moemu/Muice-Chatbot). Avatar by [WERI](https://www.pixiv.net/users/20728711).
 
