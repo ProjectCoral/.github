@@ -7,3 +7,7 @@ The prototype comes from [Muice-chatbot](https://github.com/Moemu/Muice-Chatbot)
 Wanna contribute? Check out our [contribution guidelines](https://github.com/ProjectCoral/docs/blob/master/CONTRIBUTING.md) and [code of conduct](https://github.com/ProjectCoral/docs/blob/master/CODE_OF_CONDUCT.md).
 
 WARNING: Coral is still in development and may not work as expected.
+
+<p style="text-align:center">
+<img src="https://img.shields.io/badge/Python-3.10-blue" alt="Python">
+</p>
